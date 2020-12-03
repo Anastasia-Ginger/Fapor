@@ -83,13 +83,6 @@ h2:after {
     margin: auto;
     margin-top: 22px
 }
-.about_us p {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    font-size: 11px;
-    line-height: 18px;
-    color: #ffffff;
-}
 .management {
     padding-top: 120px;
     padding-bottom: 24px;
@@ -197,6 +190,11 @@ p {
     width: 100%;
     line-height: 19px;
     margin-bottom: 36px;
+}
+.about_us p {
+    font-weight: 400;
+    color: #ffffff;
+    text-align: left;
 }
 .owl-nav .owl-prev {
     position: absolute;
